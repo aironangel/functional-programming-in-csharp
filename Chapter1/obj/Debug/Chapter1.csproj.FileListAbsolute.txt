@@ -1,5 +1,3 @@
-C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\Chapter1.exe.config
-C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\Chapter1.exe
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\Chapter1.pdb
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\Castle.Core.dll
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\FluentAssertions.dll
@@ -14,11 +12,15 @@ C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\FluentAssertions.xml
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\NSubstitute.xml
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\xunit.abstractions.xml
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\xunit.assert.xml
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\xunit.core.xml
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\xunit.execution.desktop.xml
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\obj\Debug\Chapter1.csproj.CoreCompileInputs.cache
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\obj\Debug\Chapter1.csproj.CopyComplete
-C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\obj\Debug\Chapter1.exe
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\obj\Debug\Chapter1.pdb
+C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\Chapter1.dll.config
+C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\Chapter1.dll
+C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\obj\Debug\Chapter1.dll
+C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\bin\Debug\xunit.runner.utility.net452.dll
