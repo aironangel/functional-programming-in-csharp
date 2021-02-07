@@ -22,4 +22,3 @@ C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\obj\Debug\Chapter1.csproj.CopyComplete
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\obj\Debug\Chapter1.exe
 C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\obj\Debug\Chapter1.pdb
-C:\Users\angelo\source\repos\aironangel\functional-programming-in-csharp\Chapter1\obj\Debug\Chapter1.csprojAssemblyReference.cache

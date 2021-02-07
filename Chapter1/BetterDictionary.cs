@@ -27,7 +27,7 @@ namespace Chapter1
 
     }
 
-    public class Chapter1
+    public class BetterDictionary
     {
         [Fact]
         public void better_dictionary()
